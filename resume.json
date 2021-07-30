@@ -1,0 +1,52 @@
+{
+	"basics": {
+		"name": "Manvendra Singh",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/76674381?s=400&u=b67f8ceee8df2749ed4588dae288b05552130b83&v=4",
+		"email": "2020kuec2020@iiitkota.ac.in",
+		"phone": "9610286890",
+		"summary": "",
+		},
+		"profiles": [{
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/manvendra247/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/manvendra-singh-31b20a1bb/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://www.instagram.com/invites/contact/?i=46ydnrbz8yxg&utm_content=jsm91ex"
+			}
+		]
+	},
+	
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "12/12/2020 //Date",
+		"endDate": "----",
+		"gpa": "8.64",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	
+	
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
+}
