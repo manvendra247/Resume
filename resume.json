@@ -7,7 +7,8 @@
 		"phone": "9610286890",
 		"summary": "My Name is Manvendra Singh. I am a good boy. I study in IIIT KOTA.",
 		},
-		"profiles": [{
+		"profiles": [
+			{
 			
 				"network": "Github",
 				"username": "manvendra247",
@@ -22,7 +23,7 @@
 				"network": "Instagram",
 				"username": "manvendra8245",
 				"url": "https://www.instagram.com/invites/contact/?i=46ydnrbz8yxg&utm_content=jsm91ex"
-			},
+			}
 			     
 		]
 	},
